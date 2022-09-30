@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/MainMenu.unity
+    guid: e50e975de72cab94c838787b89e0097e
+  - enabled: 1
+    path: Assets/Levels/level 1.unity
+    guid: 5b2a95ffa153e3949a76db99494944fe
+  - enabled: 1
+    path: Assets/Levels/level 2.unity
+    guid: 7096aa77111758146b237bb3b6892544
+  - enabled: 1
+    path: Assets/Levels/Level 3.unity
+    guid: 50bd5126e4feb9a49b9ee902535802df
+  - enabled: 1
+    path: Assets/Levels/Level 4.unity
+    guid: 6910134ac00f06b41be746c6e139308f
+  - enabled: 1
+    path: Assets/Levels/Level 8.unity
+    guid: bc796f4282d57194ca8f451164ca8ce8
+  - enabled: 1
+    path: Assets/Levels/Level 9.unity
+    guid: 17d29951ce253e64db272dd8d2285985
+  - enabled: 1
+    path: Assets/Levels/Level 10.unity
+    guid: 5a2142ae14a0a404dacf97ca41788505
+  - enabled: 0
+    path: Assets/Levels/QuizMaster 1.unity
+    guid: 3aa38fabfe30b784ab086b1f5ec3d0ed
+  - enabled: 0
+    path: Assets/Levels/2ndQuizMaster.unity
+    guid: fdc3909302e0df04da612a2b783abf29
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: bcc42b88fde64734d86dbf385172630f, type: 2}
